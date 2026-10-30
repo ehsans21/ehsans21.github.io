@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.ehsans21.olivepress",
-    "sha256_cert_fingerprints": ["04:33:15:E9:74:F4:EC:A3:BE:4D:2B:25:3E:E6:05:94:9F:80:DE:00:F4:FC:9C:E2:D4:40:C0:95:94:0A:7E:21"]
+    "sha256_cert_fingerprints": ["04:33:15:E9:74:F4:EC:A3:BE:4D:2B:25:3E:E6:05:94:9F:80:DE:00:F4:FC:9C:E2:D4:40:C0:95:94:0A:7E:21", "BA:FB:EF:9F:5E:47:3B:77:A5:59:2A:C9:60:FD:0E:63:6C:5E:4C:D1:07:A7:D1:15:93:0D:49:DC:88:6A:3F:B4"]
   }
 }]
